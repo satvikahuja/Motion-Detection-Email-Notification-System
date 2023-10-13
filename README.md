@@ -1,6 +1,6 @@
 # Motion Detection and Notification System
 
-This system captures video feed from the default camera, detects motion, captures images of the detected motion, and sends an email notification with the captured image attached.
+This system captures video feed from the default camera, detects object, captures images of the detected object, and sends an email notification with the captured image attached.
 
 ## Features
 - Real-time video capture and motion detection.
